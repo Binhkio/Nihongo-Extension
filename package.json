@@ -1,0 +1,14 @@
+{
+  "name": "auto-complete",
+  "version": "0.1.0",
+  "description": "Extension",
+  "permission":[
+    "activeTab",
+    "scripting"
+  ],
+  "action":{
+    "default_title": "Extension",
+    "default_popup": "popup.html"
+  },
+  "private": true
+}
